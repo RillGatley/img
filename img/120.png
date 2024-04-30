@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error>
-  <Code>NoSuchKey</Code>
-  <Message>The specified key does not exist.</Message>
-  <RequestId>60F271813E51E73434002CDC</RequestId>
-  <HostId>lds-img.oss-cn-qingdao.aliyuncs.com</HostId>
-  <Key>bizhi/staticwp/201406/b61846a159860270a326e8d700777b70.jpeg</Key>
-</Error>
